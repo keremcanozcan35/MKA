@@ -1,6 +1,6 @@
-# flutteragain
+# MKA
 
-A new Flutter project.
+A new Flutter project which shows the great leader Mustafa Kemal Atatürk and his friends with their life stories.
 
 ## Getting Started
 
@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## About the Project
-You can see the main page of the application in ExamplePage.png
+You can see the main page screenshot of the application in the "ExamplePage.png"
